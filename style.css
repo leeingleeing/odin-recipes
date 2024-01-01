@@ -1,3 +1,23 @@
+*{
+  width: 600px;
+  align-items: center;
+}
+
 .header{
   text-align: center;
+  color:blanchedalmond;
+  background-color: rgba(1, 5, 70, 10);
+}
+
+.card {
+  margin: 16px auto;
+  width: 800px;
+}
+
+li {
+  display: inline-block;
+  width: 150px;
+  font-size: 18px;
+  margin: 10px;
+  margin-left:1 150x;
 }
